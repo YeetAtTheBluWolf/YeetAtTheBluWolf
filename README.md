@@ -2,10 +2,10 @@
 
 Hello Github!
 
-### About me
+## About me
 
 I dabble in programming and Linux.
 
-### Other sites
+### Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/yeetatthebluewol.png" alt="Your Image Badge" />
+![Alt text](https://tryhackme-badges.s3.amazonaws.com/TheWonderingSoul.png "Your Image Badge")
