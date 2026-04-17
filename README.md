@@ -6,6 +6,7 @@ Hello Github!
 
 I dabble in programming and Linux.
 
-### Badges
+### Certifications
 
-![Alt text](https://tryhackme-badges.s3.amazonaws.com/TheWonderingSoul.png "Your Image Badge")
+Random Certificates I have:
+CCNA, Comptia A+, Comptia Network+, GFACT, and ISC2 Certified in Cybersecurity.
